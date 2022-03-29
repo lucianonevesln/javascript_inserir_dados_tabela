@@ -21,6 +21,6 @@
 
 ![alt text](https://github.com/lucianonevesln/javascript_inserir_dados_tabela/blob/master/img0.png)
 
-### Passo 2: observer o retorno na tabela
+### Passo 2: observe o retorno na tabela
 
 ![alt text](https://github.com/lucianonevesln/javascript_inserir_dados_tabela/blob/master/img1.png)
