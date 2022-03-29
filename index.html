@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    
+    <form id="id-formulario-adiciona-pessoa">
+
+        <label for="nome">Nome</label>
+        <input id="nome" name="nome" type="text" placeholder="digite o nome de uma pessoa">
+        <label for="nome">Idade</label>
+        <input id="idade" name="idade" type="text" placeholder="digite a idade dessa pessoa">
+
+        <button id="id-botao-adicionar-pessoa" class="botao-adicionar">Adicionar</button>
+
+    </form>
+
+    <br><br>
+
+    <table>
+        <thead>
+            <tr>
+
+                <th>Nome</th>
+                <th>Idade</th>
+
+            </tr>            
+        </thead>
+        <tbody id="tabela-pessoa"></tbody>
+    </table>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
